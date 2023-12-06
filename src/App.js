@@ -11,7 +11,7 @@ function App() {
 
       <Routes>
       {/* <Route path='/' element={<Form />} /> */}
-      <Route path='/' element={<Api />} />
+      <Route path='/api' element={<Api />} />
 
       </Routes>
       </BrowserRouter>
